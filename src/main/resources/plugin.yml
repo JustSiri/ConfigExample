@@ -1,0 +1,4 @@
+name: ExampleConfig
+version: ${project.version}
+main: justsiri.config.example.exampleconfig.ExampleConfig
+api-version: 1.16
